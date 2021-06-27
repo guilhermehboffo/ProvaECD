@@ -1,11 +1,10 @@
-### Aluno: Guilherme Henrique Boffo <br/>
-### RA: 00211995 <br/>
+### Unipar - Universidade Paranaense - Curso de Análise e Desenvolvimento de Sistemas - 2° Série
 
-### Unipar - Universidade Paranaense - Curso de Análise e Desenvolvimento de Sistemas <br/>
-### 2° Série <br/>
+Aluno: Guilherme Henrique Boffo <br/>
+RA: 00211995
 
-### Professor: Geferson Luis Simonette <br/>
-### Matéria: Estrutura e classificação de dados <br/>
+Professor: Geferson Luis Simonette <br/>
+Matéria: Estrutura e classificação de dados
 
 ---
 
